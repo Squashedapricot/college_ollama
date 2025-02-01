@@ -109,7 +109,6 @@ PyPika==0.48.9
 pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-pytorch-triton-rocm==3.2.0
 pytz==2025.1
 PyYAML==6.0.2
 referencing==0.36.2
@@ -137,9 +136,6 @@ tenacity==9.0.0
 threadpoolctl==3.5.0
 tokenizers==0.21.0
 toml==0.10.2
-torch==2.6.0+rocm6.2.4
-torchaudio==2.6.0+rocm6.2.4
-torchvision==0.21.0+rocm6.2.4
 tornado==6.4.2
 tqdm==4.67.1
 transformers==4.48.2
