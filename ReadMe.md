@@ -2,7 +2,7 @@
 # Installation
 **Create a virtaul env with python 3.11.1**
 
-**Get you own version of pytorch(compatible with your hardware)**
+**Get you own version of pytorch(compatible with your hardware) from here [link text](https://pytorch.org)** 
 
 **Install dependencies**
 ```
